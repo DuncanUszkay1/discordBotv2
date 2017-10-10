@@ -1,0 +1,21 @@
+#Bot Name:
+DogBot
+#Bot Id:
+288089215533842433
+#Bot Token:
+MzY3MDQzNjA2NTEyNjY0NTc4.DL1r8g.uPn-76mt6scyQsSdLZCHU7vBhb8
+#Bot Voice Volume
+0.2
+#Bot Default Voice Channel Id
+367043142723174403
+#Bot Soundboard File
+data/soundboard.txt
+#Bot Stream File
+data/streams.txt
+#Bot Single Line Reply File
+data/common_reply.txt
+#Bot Entrance Music File
+data/entrances.txt
+#Bot Exit Music File
+data/exits.txt
+
